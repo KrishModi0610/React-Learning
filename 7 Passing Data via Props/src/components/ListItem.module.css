@@ -1,0 +1,12 @@
+/*  *************** CSS Modules **************** */
+
+.km-items {
+    background-color: darkgray;
+    width: 25%;
+
+}
+
+.km-span {
+    color: brown;
+    font-weight: 600;
+}
