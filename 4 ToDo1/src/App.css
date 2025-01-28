@@ -1,0 +1,23 @@
+.heading1 {
+    font-weight: bolder ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.item-container{
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
+
+.kg-button {
+    min-width: 80px;
+}
+
+.kg-row {
+    margin: 15px 5px;
+}
